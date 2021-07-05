@@ -1,0 +1,30 @@
+c:\users\james bond\documents\visual studio 2012\Projects\hospital_management_system\hospital_management_system\bin\Debug\hospital_management_system.exe.config
+c:\users\james bond\documents\visual studio 2012\Projects\hospital_management_system\hospital_management_system\bin\Debug\hospital_management_system.exe
+c:\users\james bond\documents\visual studio 2012\Projects\hospital_management_system\hospital_management_system\bin\Debug\hospital_management_system.pdb
+c:\users\james bond\documents\visual studio 2012\Projects\hospital_management_system\hospital_management_system\bin\Debug\hospital_management_system.xml
+c:\users\james bond\documents\visual studio 2012\Projects\hospital_management_system\hospital_management_system\obj\Debug\hospital_management_system.Form1.resources
+c:\users\james bond\documents\visual studio 2012\Projects\hospital_management_system\hospital_management_system\obj\Debug\hospital_management_system.Resources.resources
+c:\users\james bond\documents\visual studio 2012\Projects\hospital_management_system\hospital_management_system\obj\Debug\hospital_management_system.vbproj.GenerateResource.Cache
+c:\users\james bond\documents\visual studio 2012\Projects\hospital_management_system\hospital_management_system\obj\Debug\hospital_management_system.exe
+c:\users\james bond\documents\visual studio 2012\Projects\hospital_management_system\hospital_management_system\obj\Debug\hospital_management_system.xml
+c:\users\james bond\documents\visual studio 2012\Projects\hospital_management_system\hospital_management_system\obj\Debug\hospital_management_system.pdb
+c:\users\james bond\documents\visual studio 2012\Projects\hospital_management_system\hospital_management_system\obj\Debug\hospital_management_system.Form2.resources
+C:\Users\james bond\documents\visual studio 2012\Projects\hospital_management_system\hospital_management_system\obj\Debug\hospital_management_system.Form3.resources
+C:\Users\james bond\documents\visual studio 2012\Projects\hospital_management_system\hospital_management_system\obj\Debug\hospital_management_system.Form4.resources
+C:\Users\james bond\documents\visual studio 2012\Projects\hospital_management_system\hospital_management_system\bin\Debug\hospital.accdb
+C:\Users\james bond\Documents\visual studio 2012\Projects\hospital_management_system\hospital_management_system\obj\Debug\hospital_management_system.Form5.resources
+D:\third sem prokect\hospital_management_system\hospital_management_system\bin\Debug\hospital_management_system.exe.config
+D:\third sem prokect\hospital_management_system\hospital_management_system\obj\Debug\hospital_management_system.exe
+D:\third sem prokect\hospital_management_system\hospital_management_system\obj\Debug\hospital_management_system.xml
+D:\third sem prokect\hospital_management_system\hospital_management_system\obj\Debug\hospital_management_system.pdb
+D:\third sem prokect\hospital_management_system\hospital_management_system\bin\Debug\hospital.accdb
+D:\third sem prokect\hospital_management_system\hospital_management_system\bin\Debug\hospital_management_system.exe
+D:\third sem prokect\hospital_management_system\hospital_management_system\bin\Debug\hospital_management_system.pdb
+D:\third sem prokect\hospital_management_system\hospital_management_system\bin\Debug\hospital_management_system.xml
+D:\third sem prokect\hospital_management_system\hospital_management_system\obj\Debug\hospital_management_system.Form1.resources
+D:\third sem prokect\hospital_management_system\hospital_management_system\obj\Debug\hospital_management_system.Form2.resources
+D:\third sem prokect\hospital_management_system\hospital_management_system\obj\Debug\hospital_management_system.Form3.resources
+D:\third sem prokect\hospital_management_system\hospital_management_system\obj\Debug\hospital_management_system.Form4.resources
+D:\third sem prokect\hospital_management_system\hospital_management_system\obj\Debug\hospital_management_system.Form5.resources
+D:\third sem prokect\hospital_management_system\hospital_management_system\obj\Debug\hospital_management_system.Resources.resources
+D:\third sem prokect\hospital_management_system\hospital_management_system\obj\Debug\hospital_management_system.vbproj.GenerateResource.Cache
